@@ -1,0 +1,36 @@
+Display :;
+1.28inch;
+1.42inch;
+1.39inch;
+1.38inch;
+1.39inch;
+|
+Battery Capacity:;
+300mAh;
+320mAh;
+471mAh;
+340mAh;
+471mAh;
+|
+Strap Width:;
+21mm;
+24mm;
+23mm;
+22mm;
+22mm;
+|
+Water & Dustproof Rating:;
+IP68;
+IP67;
+IP53;
+IP52;
+IP68;
+|
+Bluetooth Version:;
+5.0;
+5.1;
+4.1;
+4.0;
+5.0;
+|
+
